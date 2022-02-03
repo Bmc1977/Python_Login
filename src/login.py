@@ -2,7 +2,10 @@ from tkinter import *
 
 
 def run():
-    pass
+    window = Tk()
+    window.title("Login")
+
+    window.mainloop()
 
 
 if __name__ == '__main__':
